@@ -1,0 +1,13 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo puedo restablecer mi contraseña?",
+        "respuesta": "Puedes restablecer tu contraseña haciendo clic en el enlace 'Olvidé mi contraseña' en la página de inicio de sesión."
+      },
+      {
+        "pregunta": "¿Cómo puedo contactar con el servicio de atención al cliente?",
+        "respuesta": "Puedes contactar con el servicio de atención al cliente por correo electrónico a support@example.com o por teléfono al 123-456-7890."
+      }
+    ]
+  }
+  
